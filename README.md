@@ -129,8 +129,11 @@ const juan: Developer = {
   <summary><b>&nbsp;📈 &nbsp;Overview</b></summary>
   <br>
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDiRiv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&include_all_commits=true&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiRiv&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" />
+    <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiRiv&theme=github_dark" alt="profile summary" />
+  </p>
+  <p align="center">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanDiRiv&theme=github_dark" alt="stats" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiRiv&theme=github_dark" alt="top languages" />
   </p>
 </details>
 
@@ -138,22 +141,25 @@ const juan: Developer = {
   <summary><b>&nbsp;🔥 &nbsp;Commit streak</b></summary>
   <br>
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=JuanDiRiv&hide_border=true&background=0D1117&border=9D4EDD&stroke=9D4EDD&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" />
+    <img src="https://streak-stats.demolab.com?user=JuanDiRiv&hide_border=true&background=0D1117&border=9D4EDD&stroke=9D4EDD&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="commit streak" />
   </p>
 </details>
 
 <details>
-  <summary><b>&nbsp;🏆 &nbsp;Trophies</b></summary>
+  <summary><b>&nbsp;⏱️ &nbsp;When I commit</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=JuanDiRiv&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanDiRiv&theme=github_dark&utcOffset=-5" alt="productive time" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanDiRiv&theme=github_dark" alt="most commit language" />
   </p>
 </details>
 
 <details>
-  <summary><b>&nbsp;📉 &nbsp;Activity graph</b></summary>
+  <summary><b>&nbsp;📉 &nbsp;Contribution heatmap</b></summary>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiRiv&bg_color=0D1117&color=00F0FF&line=FF2E97&point=9D4EDD&area=true&area_color=9D4EDD&hide_border=true&custom_title=Contribution%20activity%20—%20last%2031%20days" width="100%" />
+  <p align="center">
+    <img width="94%" src="https://ghchart.rshah.org/00F0FF/JuanDiRiv" alt="contribution heatmap" />
+  </p>
 </details>
 
 <!-- ═══════════ SNAKE ═══════════ -->
