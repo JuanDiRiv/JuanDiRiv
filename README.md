@@ -154,14 +154,6 @@ const juan: Developer = {
   </p>
 </details>
 
-<details>
-  <summary><b>&nbsp;📉 &nbsp;Contribution heatmap</b></summary>
-  <br>
-  <p align="center">
-    <img width="94%" src="https://ghchart.rshah.org/00F0FF/JuanDiRiv" alt="contribution heatmap" />
-  </p>
-</details>
-
 <!-- ═══════════ SNAKE ═══════════ -->
 <h2 align="center">🐍 Watch the snake eat my contributions</h2>
 
