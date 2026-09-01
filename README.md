@@ -14,9 +14,7 @@
 
 <!-- ═══════════ TYPING EFFECT ═══════════ -->
 <p align="center">
-  <a href="https://portfolio-juan-diego-rivero-tirado.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=60&lines=%3E+Senior+Front-End+AI+Developer;%3E+I+build+AI-powered+web+experiences;%3E+React+%7C+Next.js+%7C+Astro+%7C+TypeScript;%3E+CMS+integrations%2C+SEO+%26+production+apps" alt="typing" />
-  </a>
+  <a href="https://portfolio-juan-diego-rivero-tirado.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=60&lines=%3E+Senior+Front-End+AI+Developer;%3E+I+build+AI-powered+web+experiences;%3E+React+%7C+Next.js+%7C+Astro+%7C+TypeScript;%3E+CMS+integrations%2C+SEO+%26+production+apps" alt="typing" /></a>
 </p>
 
 <!-- ═══════════ COUNTERS ═══════════ -->
@@ -171,15 +169,9 @@ const juan: Developer = {
 <h2 align="center">🌐 Let's connect</h2>
 
 <p align="center">
-  <a href="https://portfolio-juan-diego-rivero-tirado.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=9D4EDD" />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-diego-rivero-tirado-95814423b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
-  </a>
-  <a href="mailto:juandirivero@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" />
-  </a>
+  <a href="https://portfolio-juan-diego-rivero-tirado.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=9D4EDD" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/juan-diego-rivero-tirado-95814423b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
+  <a href="mailto:juandirivero@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
 </p>
 
 <br>
