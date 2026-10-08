@@ -9,7 +9,7 @@
 
 <!-- ═══════════ ANIMATED BANNER ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:FF2E97,100:00F0FF&height=210&section=header&text=Juan%20Diego%20Rivero%20Tirado&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Senior%20Front-End%20AI%20Developer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:FF2E97,100:00F0FF&height=210&section=header&text=Juan%20Diego%20Rivero%20Tirado&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Senior%20Full-Stack%20AI%20Developer&descAlignY=54&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <!-- ═══════════ TYPING EFFECT ═══════════ -->
@@ -36,7 +36,7 @@
 ```ts
 const juan: Developer = {
   name:     "Juan Diego Rivero Tirado",
-  role:     "Senior Front-End AI Developer",
+  role:     "Senior Full-Stack AI Developer",
   location: "Chía, Colombia 🇨🇴",
   company:  "Cloudstaff → Zilker Trail",
   focus:    ["AI-assisted development", "CMS integrations", "SEO", "production apps"],
