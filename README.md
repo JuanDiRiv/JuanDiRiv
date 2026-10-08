@@ -14,7 +14,7 @@
 
 <!-- ═══════════ TYPING EFFECT ═══════════ -->
 <p align="center">
-  <a href="https://portfolio-juan-diego-rivero-tirado.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=60&lines=%3E+Senior+Front-End+AI+Developer;%3E+I+build+AI-powered+web+experiences;%3E+React+%7C+Next.js+%7C+Astro+%7C+TypeScript;%3E+CMS+integrations%2C+SEO+%26+production+apps" alt="typing" /></a>
+  <a href="https://portfolio-juan-diego-rivero-tirado.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=60&lines=%3E+Senior+Full-Stack+AI+Developer;%3E+I+build+AI-powered+web+experiences;%3E+React+%7C+Next.js+%7C+Astro+%7C+TypeScript;%3E+CMS+integrations%2C+SEO+%26+production+apps" alt="typing" /></a>
 </p>
 
 <!-- ═══════════ COUNTERS ═══════════ -->
